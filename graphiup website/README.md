@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>InfluNex | Turning Influence Into Growth</title>
+
+<meta name="description"
+content="InfluNex is a premium influencer marketing and creative agency helping brands grow through influencer campaigns, content creation, videography and high-performing creative strategy.">
+
+<meta name="keywords"
+content="Influencer Marketing, UGC, Creative Agency, Video Editing, Videography, Creator Management, India">
+
+<meta name="author" content="InfluNex">
+
+<meta name="theme-color" content="#050505">
+
+<meta property="og:title"
+content="InfluNex | Turning Influence Into Growth">
+
+<meta property="og:description"
+content="Premium Influencer Marketing & Creative Agency">
+
+<meta property="og:type"
+content="website">
+
+<meta property="og:image"
+content="assets/images/preview.jpg">
+
+<meta property="og:url"
+content="https://yourdomain.com">
+
+<link rel="icon"
+href="assets/logo/favicon.ico">
+
+<link rel="preconnect"
+href="https://fonts.googleapis.com">
+
+<link rel="preconnect"
+href="https://fonts.gstatic.com"
+crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+rel="stylesheet">
+
+<link
+rel="stylesheet"
+href="style.css">
+
+</head>
+
+<body>
+
+
+
+<!-- ===========================
+LOADER
+============================ -->
+
+<div class="loader">
+
+<div class="loader-logo">
+
+<img
+src="assets/logo/logo-gold.png"
+alt="InfluNex Logo">
+
+<h2>InfluNex</h2>
+
+</div>
+
+</div>
+
+
+
+<!-- ===========================
+CURSOR
+============================ -->
+
+<div class="cursor-dot"></div>
+
+<div class="cursor-glow"></div>
+
+
+
+<!-- ===========================
+BACKGROUND
+============================ -->
+
+<div class="gradient-one"></div>
+
+<div class="gradient-two"></div>
+
+<div class="noise"></div>
+
+
+
+<!-- ===========================
+NAVBAR
+============================ -->
+
+<header class="navbar">
+
+<div class="nav-container">
+
+<a
+href="#"
+class="logo">
+
+<img
+src="assets/logo/logo-white.svg"
+alt="InfluNex">
+
+</a>
+
+<nav class="desktop-nav">
+
+<a href="#about">About</a>
+
+<a href="#services">Services</a>
+
+<a href="#portfolio">Portfolio</a>
+
+<a href="#process">Process</a>
+
+<a href="#contact">Contact</a>
+
+</nav>
+
+<div class="nav-right">
+
+<a
+href="#contact"
+class="nav-btn">
+
+Book Strategy Call
+
+</a>
+
+<button
+class="menu-btn">
+
+<span></span>
+<span></span>
+<span></span>
+
+</button>
+
+</div>
+
+</div>
+
+</header>
+
+
+
+<!-- ===========================
+MOBILE MENU
+============================ -->
+
+<div class="mobile-menu">
+
+<a href="#about">About</a>
+
+<a href="#services">Services</a>
+
+<a href="#portfolio">Portfolio</a>
+
+<a href="#process">Process</a>
+
+<a href="#contact">Contact</a>
+
+<a
+href="#contact"
+class="mobile-btn">
+
+Book Strategy Call
+
+</a>
+
+</div>
+
+
+
+<!-- ===========================
+HERO
+============================ -->
+
+<section class="hero">
+
+<div class="hero-bg"></div>
+
+<div class="hero-content">
+
+<div class="hero-badge">
+
+Premium Influencer Marketing Agency
+
+</div>
+
+<h1>
+
+Turning
+<span>Influence</span>
+Into
+Growth.
+
+</h1>
+
+<p>
+
+InfluNex helps ambitious brands grow through
+creator partnerships, cinematic content,
+videography, premium video editing and
+data-driven marketing strategies.
+
+</p>
+
+<div class="hero-buttons">
+
+<a
+href="#contact"
+class="primary-btn">
+
+Book a Strategy Call
+
+</a>
+
+<a
+href="#portfolio"
+class="secondary-btn">
+
+View Our Work
+
+</a>
+
+</div>
+
+<div class="hero-stats">
+
+<div class="stat-card">
+
+<h2>Influencer</h2>
+
+<p>Marketing</p>
+
+</div>
+
+<div class="stat-card">
+
+<h2>Creative</h2>
+
+<p>Production</p>
+
+</div>
+
+<div class="stat-card">
+
+<h2>Video</h2>
+
+<p>Editing</p>
+
+</div>
+
+<div class="stat-card">
+
+<h2>Growth</h2>
+
+<p>Strategy</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="scroll-indicator">
+
+<div class="mouse"></div>
+
+<span>Scroll</span>
+
+</div>
+
+</section>
+
+
+
+<!-- ===========================
+NEXT SECTION STARTS HERE
+============================ -->
+
+<section
+id="about">
+
+<!-- Continue in Part 1B -->
+
+</section>
+
+
+
+<script
+src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.42/bundled/lenis.min.js">
+</script>
+
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js">
+</script>
+
+<script
+src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js">
+</script>
+
+<script
+src="https://unpkg.com/split-type">
+</script>
+
+<script
+src="script.js">
+</script>
+
+</body>
+</html>
+<section id="about">
+
+<!-- Continue in Part 1B -->
+
+</section>
+<!-- =======================================================
+ABOUT
+======================================================= -->
+
+<section class="about section" id="about">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+            WHO WE ARE
+        </span>
+
+        <h2>
+            We don't just create content.
+            <span>We create influence.</span>
+        </h2>
+
+    </div>
+
+    <div class="about-grid">
+
+        <div class="about-text">
+
+            <p>
+
+                InfluNex is a premium influencer marketing and creative
+                agency helping ambitious brands connect with the right
+                creators, produce world-class content and build campaigns
+                that people genuinely remember.
+
+            </p>
+
+            <p>
+
+                From strategy and creator partnerships to videography,
+                cinematic editing and campaign execution, every project
+                is designed to increase attention, trust and measurable
+                business growth.
+
+            </p>
+
+            <div class="about-highlights">
+
+                <div class="highlight">
+
+                    <h3>Creator First</h3>
+
+                    <p>
+                        Authentic creator partnerships that audiences trust.
+                    </p>
+
+                </div>
+
+                <div class="highlight">
+
+                    <h3>Creative Excellence</h3>
+
+                    <p>
+                        Premium production with cinematic storytelling.
+                    </p>
+
+                </div>
+
+                <div class="highlight">
+
+                    <h3>Growth Focused</h3>
+
+                    <p>
+                        Every campaign is built around measurable results.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="about-card">
+
+            <div class="glass-card">
+
+                <span class="mini-tag">
+                    OUR MISSION
+                </span>
+
+                <h3>
+                    Turning Influence Into Growth
+                </h3>
+
+                <p>
+
+                    We help brands grow faster by combining
+                    influencer marketing, premium creative,
+                    videography and data-driven strategy
+                    into one seamless experience.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =======================================================
+SERVICES
+======================================================= -->
+
+<section class="services section" id="services">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+            OUR SERVICES
+        </span>
+
+        <h2>
+
+            Everything your brand needs
+            <span>under one roof.</span>
+
+        </h2>
+
+    </div>
+
+    <div class="services-grid">
+
+        <div class="service-card">
+
+            <div class="service-number">
+                01
+            </div>
+
+            <h3>
+                Influencer Marketing
+            </h3>
+
+            <p>
+
+                End-to-end influencer campaigns that
+                build awareness, trust and conversions.
+
+            </p>
+            <div class="service-line"></div>
+
+        </div>
+
+        <div class="service-card">
+
+            <div class="service-number">
+                02
+            </div>
+
+            <h3>
+                Creator Management
+            </h3>
+
+            <p>
+
+                Finding, managing and coordinating
+                creators perfectly aligned with your brand.
+
+            </p>
+            <div class="service-line"></div>
+
+        </div>
+
+        <div class="service-card">
+
+            <div class="service-number">
+                03
+            </div>
+
+            <h3>
+                UGC Content
+            </h3>
+
+            <p>
+
+                Authentic creator-generated content
+                designed for modern social platforms.
+
+            </p>
+            <div class="service-line"></div>
+
+        </div>
+
+        <div class="service-card">
+
+            <div class="service-number">
+                04
+            </div>
+
+            <h3>
+                Video Editing
+            </h3>
+
+            <p>
+
+                Premium editing focused on storytelling,
+                retention and cinematic quality.
+
+            </p>
+            <div class="service-line"></div>
+
+        </div>
+
+        <div class="service-card">
+
+            <div class="service-number">
+                05
+            </div>
+
+            <h3>
+                Videography
+            </h3>
+
+            <p>
+
+                Commercial shoots, product films and
+                cinematic brand storytelling.
+
+            </p>
+            <div class="service-line"></div>
+
+        </div>
+
+        <div class="service-card">
+
+            <div class="service-number">
+                06
+            </div>
+
+            <h3>
+                Creative Strategy
+            </h3>
+
+            <p>
+
+                Creative direction backed by audience
+                psychology and performance insights.
+
+            </p>
+            <div class="service-line"></div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =======================================================
+WHY INFLUNEX
+======================================================= -->
+
+<section class="why-us section">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+
+            WHY CHOOSE US
+
+        </span>
+
+        <h2>
+
+            Why brands choose
+            <span>InfluNex.</span>
+
+        </h2>
+
+    </div>
+
+    <div class="why-grid">
+
+        <div class="why-card">
+
+            <h3>
+                Premium Storytelling
+            </h3>
+
+            <p>
+
+                Every campaign is crafted with cinematic
+                visuals that capture attention instantly.
+
+            </p>
+
+        </div>
+
+        <div class="why-card">
+
+            <h3>
+                Trusted Creator Network
+            </h3>
+
+            <p>
+
+                We collaborate with creators who genuinely
+                connect with your audience.
+
+            </p>
+
+        </div>
+
+        <div class="why-card">
+
+            <h3>
+                Data Driven Decisions
+            </h3>
+
+            <p>
+
+                Creative backed by analytics to maximize
+                engagement and ROI.
+
+            </p>
+
+        </div>
+
+        <div class="why-card">
+
+            <h3>
+                Complete Creative Partner
+            </h3>
+
+            <p>
+
+                Strategy, production, editing and campaign
+                management—all under one roof.
+
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =======================================================
+PART 1C STARTS HERE
+======================================================= -->
+
+<section id="portfolio">
+
+<!-- Continue in Part 1C -->
+
+</section>
+<!-- =======================================================
+PORTFOLIO
+======================================================= -->
+
+<section class="portfolio section" id="portfolio">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+            FEATURED WORK
+        </span>
+
+        <h2>
+            Campaigns that
+            <span>capture attention.</span>
+        </h2>
+
+        <p class="section-description">
+            Every project is crafted to stop the scroll,
+            tell a compelling story and drive results.
+        </p>
+
+    </div>
+
+    <div class="portfolio-grid">
+
+        <a href="https://www.instagram.com/reel/DNCq1IZyhLp/"
+           target="_blank"
+           class="portfolio-card">
+
+            <div class="portfolio-image">
+
+                <img src="assets/images/project-1.jpg"
+                     alt="Arshdeep Singh Campaign">
+
+                <div class="portfolio-overlay">
+
+                    <span>View Project</span>
+
+                </div>
+
+            </div>
+
+            <div class="portfolio-content">
+
+                <span class="portfolio-category">
+                    Sports Campaign
+                </span>
+
+                <h3>
+                    Arshdeep Singh
+                </h3>
+
+                <p>
+
+                    Premium sports storytelling and
+                    cinematic editing for social media.
+
+                </p>
+
+            </div>
+
+        </a>
+
+
+
+        <a href="https://www.instagram.com/reel/DZQJWGwTIWe/"
+           target="_blank"
+           class="portfolio-card">
+
+            <div class="portfolio-image">
+
+                <img src="assets/images/project-2.jpg"
+                     alt="Brand Campaign">
+
+                <div class="portfolio-overlay">
+
+                    <span>View Project</span>
+
+                </div>
+
+            </div>
+
+            <div class="portfolio-content">
+
+                <span class="portfolio-category">
+
+                    Brand Film
+
+                </span>
+
+                <h3>
+
+                    Premium Creative
+
+                </h3>
+
+                <p>
+
+                    High-retention content built for
+                    modern brands.
+
+                </p>
+
+            </div>
+
+        </a>
+
+
+
+        <a href="https://www.youtube.com/watch?v=Ywe8_vtdIXA"
+           target="_blank"
+           class="portfolio-card">
+
+            <div class="portfolio-image">
+
+                <img src="assets/images/project-3.jpg"
+                     alt="YouTube Project">
+
+                <div class="portfolio-overlay">
+
+                    <span>Watch Video</span>
+
+                </div>
+
+            </div>
+
+            <div class="portfolio-content">
+
+                <span class="portfolio-category">
+
+                    Commercial
+
+                </span>
+
+                <h3>
+
+                    Cinematic Production
+
+                </h3>
+
+                <p>
+
+                    Long-form production with premium
+                    storytelling and editing.
+
+                </p>
+
+            </div>
+
+        </a>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- =======================================================
+PROCESS
+======================================================= -->
+
+<section class="process section" id="process">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+            OUR PROCESS
+        </span>
+
+        <h2>
+
+            Simple.
+            Strategic.
+            <span>Scalable.</span>
+
+        </h2>
+
+    </div>
+
+    <div class="timeline">
+
+        <div class="step">
+
+            <span>01</span>
+
+            <h3>
+
+                Discovery
+
+            </h3>
+
+            <p>
+
+                We understand your goals,
+                audience and brand identity.
+
+            </p>
+
+        </div>
+
+        <div class="step">
+
+            <span>02</span>
+
+            <h3>
+
+                Strategy
+
+            </h3>
+
+            <p>
+
+                Campaign planning,
+                creator selection
+                and content roadmap.
+
+            </p>
+
+        </div>
+
+        <div class="step">
+
+            <span>03</span>
+
+            <h3>
+
+                Production
+
+            </h3>
+
+            <p>
+
+                Videography,
+                editing,
+                content creation
+                and campaign execution.
+
+            </p>
+
+        </div>
+
+        <div class="step">
+
+            <span>04</span>
+
+            <h3>
+
+                Growth
+
+            </h3>
+
+            <p>
+
+                Measure,
+                optimize
+                and scale what works.
+
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- =======================================================
+WHY BRANDS TRUST US
+======================================================= -->
+
+<section class="results section">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+
+            WHY INFLUNEX
+
+        </span>
+
+        <h2>
+
+            Built for brands
+            that want
+            <span>real growth.</span>
+
+        </h2>
+
+    </div>
+
+    <div class="results-grid">
+
+        <div class="result-card">
+
+            <h3>
+
+                Creative Excellence
+
+            </h3>
+
+            <p>
+
+                Premium visuals designed
+                to leave a lasting impression.
+
+            </p>
+
+        </div>
+
+        <div class="result-card">
+
+            <h3>
+
+                Creator Network
+
+            </h3>
+
+            <p>
+
+                Carefully selected creators
+                that fit your audience.
+
+            </p>
+
+        </div>
+
+        <div class="result-card">
+
+            <h3>
+
+                End-to-End Execution
+
+            </h3>
+
+            <p>
+
+                Strategy,
+                production,
+                publishing
+                and optimization.
+
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- =======================================================
+TESTIMONIALS
+======================================================= -->
+
+<section class="testimonials section">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+
+            CLIENT LOVE
+
+        </span>
+
+        <h2>
+
+            Trusted by
+            creators and brands.
+
+        </h2>
+
+    </div>
+
+    <div class="testimonial-slider">
+
+        <div class="testimonial-card">
+
+            <p>
+
+                "Working with InfluNex completely
+                transformed the way our content
+                looked online."
+
+            </p>
+
+            <h4>
+
+                Brand Partner
+
+            </h4>
+
+        </div>
+
+        <div class="testimonial-card">
+
+            <p>
+
+                "Professional team,
+                premium quality
+                and fast delivery."
+
+            </p>
+
+            <h4>
+
+                Creator
+
+            </h4>
+
+        </div>
+
+        <div class="testimonial-card">
+
+            <p>
+
+                "One of the best creative agencies
+                we've collaborated with."
+
+            </p>
+
+            <h4>
+
+                Startup Founder
+
+            </h4>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- =======================================================
+PART 1D STARTS HERE
+======================================================= -->
+
+<section id="faq">
+
+<!-- Continue in Part 1D -->
+
+</section>
+<!-- =======================================================
+FAQ
+======================================================= -->
+
+<section class="faq section" id="faq">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+            FAQ
+        </span>
+
+        <h2>
+            Frequently Asked
+            <span>Questions</span>
+        </h2>
+
+    </div>
+
+    <div class="faq-container">
+
+        <div class="faq-item">
+            <button class="faq-question">
+                What services does InfluNex provide?
+            </button>
+
+            <div class="faq-answer">
+                <p>
+                    We specialize in influencer marketing, creator
+                    management, videography, video editing, UGC
+                    production and creative strategy.
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                Do you work with startups?
+            </button>
+
+            <div class="faq-answer">
+                <p>
+                    Yes. We work with startups, personal brands,
+                    D2C brands and established companies looking
+                    to grow through creator-led marketing.
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">
+                How do we start?
+            </button>
+
+            <div class="faq-answer">
+                <p>
+                    Simply book a strategy call through WhatsApp or
+                    fill out the contact form below. We'll discuss
+                    your goals and recommend the best approach.
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =======================================================
+CONTACT
+======================================================= -->
+
+<section class="contact section" id="contact">
+
+    <div class="section-header">
+
+        <span class="section-tag">
+            CONTACT
+        </span>
+
+        <h2>
+            Let's Build Something
+            <span>Extraordinary.</span>
+        </h2>
+
+        <p class="section-description">
+            Ready to turn influence into growth?
+            Let's discuss your next campaign.
+        </p>
+
+    </div>
+
+    <div class="contact-wrapper">
+
+        <div class="contact-info">
+
+            <div class="contact-card">
+
+                <h3>Email</h3>
+
+                <a href="mailto:influneexmedia@gmail.com">
+                    influneexmedia@gmail.com
+                </a>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>WhatsApp</h3>
+
+                <a href="https://wa.me/917303987848"
+                   target="_blank">
+
+                    +91 7303987848
+
+                </a>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>Instagram</h3>
+
+                <a href="https://www.instagram.com/influneex"
+                   target="_blank">
+
+                    @influneex
+
+                </a>
+
+            </div>
+
+        </div>
+
+        <form class="contact-form">
+
+            <input
+                type="text"
+                placeholder="Your Name"
+                required>
+
+            <input
+                type="email"
+                placeholder="Email Address"
+                required>
+
+            <input
+                type="text"
+                placeholder="Company">
+
+            <textarea
+                placeholder="Tell us about your project..."
+                rows="6"
+                required></textarea>
+
+            <button
+                type="submit"
+                class="primary-btn">
+
+                Book Strategy Call
+
+            </button>
+
+        </form>
+
+    </div>
+
+</section>
+
+
+
+<!-- =======================================================
+FOOTER
+======================================================= -->
+
+<footer class="footer">
+
+    <div class="footer-top">
+
+        <div>
+
+            <img
+                src="assets/logo/logo-white.svg"
+                alt="InfluNex Logo"
+                class="footer-logo">
+
+            <p>
+
+                Turning Influence Into Growth.
+
+            </p>
+
+        </div>
+
+        <div class="footer-links">
+
+            <a href="#about">About</a>
+            <a href="#services">Services</a>
+            <a href="#portfolio">Portfolio</a>
+            <a href="#process">Process</a>
+            <a href="#contact">Contact</a>
+
+        </div>
+
+        <div class="footer-social">
+
+            <a href="https://www.instagram.com/influneex"
+               target="_blank">
+
+                Instagram
+
+            </a>
+
+            <a href="https://wa.me/917303987848"
+               target="_blank">
+
+                WhatsApp
+
+            </a>
+
+            <a href="mailto:influneexmedia@gmail.com">
+
+                Email
+
+            </a>
+
+        </div>
+
+    </div>
+
+    <div class="footer-bottom">
+
+        <p>
+
+            © 2026 InfluNex.
+            All Rights Reserved.
+
+        </p>
+
+    </div>
+
+</footer>
+
+
+
+<!-- =======================================================
+FLOATING WHATSAPP
+======================================================= -->
+
+<a
+href="https://wa.me/917303987848?text=Hi%20InfluNex%2C%20I%20want%20to%20book%20a%20strategy%20call."
+class="floating-whatsapp"
+target="_blank"
+aria-label="Chat on WhatsApp">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+width="28"
+height="28"
+fill="currentColor"
+viewBox="0 0 16 16">
+
+<path d="M13.601 2.326A7.854 7.854 0 0 0 8.003 0C3.59 0 .003 3.584.003 7.997a7.94 7.94 0 0 0 1.09 4.045L0 16l4.07-1.067A7.98 7.98 0 0 0 8.003 16c4.413 0 8-3.587 8-8a7.94 7.94 0 0 0-2.402-5.674z"/>
+
+</svg>
+
+</a>
+
+</body>
+
+</html>
